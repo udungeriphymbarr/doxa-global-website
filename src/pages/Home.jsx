@@ -9,6 +9,8 @@ import EventsPreview
 from "../components/home/EventsPreview/EventsPreview";
 import GalleryPreview 
 from "../components/home/GalleryPreview/GalleryPreview";
+import PrayerCTA 
+from "../components/home/PrayerCTA/PrayerCTA";
 
 
 function Home(){
@@ -30,6 +32,8 @@ return(
 <EventsPreview />
 
 <GalleryPreview />
+
+<PrayerCTA />
 
 </>
 
