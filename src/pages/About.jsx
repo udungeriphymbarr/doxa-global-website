@@ -1,14 +1,15 @@
+import AboutHero from "../components/about/AboutHero/AboutHero";
+
+
 function About(){
 
 return(
 
-<div>
+<main>
 
-<h1>
-About DOXA GLOBAL
-</h1>
+<AboutHero />
 
-</div>
+</main>
 
 );
 
