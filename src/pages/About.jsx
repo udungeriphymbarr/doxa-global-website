@@ -6,6 +6,8 @@ import CoreBeliefs
 from "../components/about/CoreBeliefs/CoreBeliefs";
 import PastorSection 
 from "../components/about/PastorSection/PastorSection";
+import AboutCTA 
+from "../components/about/AboutCTA/AboutCTA";
 
 
 function About(){
@@ -23,6 +25,8 @@ return(
 <CoreBeliefs />
 
 <PastorSection />
+
+<AboutCTA />
 
 </main>
 
