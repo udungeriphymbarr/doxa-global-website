@@ -4,6 +4,8 @@ import MinistryIntro
 from "../components/ministries/MinistryIntro/MinistryIntro";
 import MinistryGrid
 from "../components/ministries/MinistryGrid/MinistryGrid";
+import MinistryCTA
+from "../components/ministries/MinistryCTA/MinistryCTA";
 
 
 function Ministries(){
@@ -15,6 +17,7 @@ return(
 <MinistriesHero />
 <MinistryIntro />
 <MinistryGrid />
+<MinistryCTA />
 
 </main>
 
