@@ -7,6 +7,8 @@ import SermonsPreview
 from "../components/home/SermonsPreview/SermonsPreview";
 import EventsPreview 
 from "../components/home/EventsPreview/EventsPreview";
+import GalleryPreview 
+from "../components/home/GalleryPreview/GalleryPreview";
 
 
 function Home(){
@@ -26,6 +28,8 @@ return(
 <SermonsPreview />
 
 <EventsPreview />
+
+<GalleryPreview />
 
 </>
 
