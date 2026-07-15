@@ -12,6 +12,8 @@ from "../components/home/GalleryPreview/GalleryPreview";
 import PrayerCTA 
 from "../components/home/PrayerCTA/PrayerCTA";
 import GiveCTA from "../components/home/GiveCTA/GiveCTA";
+import ContactPreview 
+from "../components/home/ContactPreview/ContactPreview";
 
 
 
@@ -38,6 +40,8 @@ return(
 <PrayerCTA />
 
 <GiveCTA />
+
+<ContactPreview />
 
 </>
 
