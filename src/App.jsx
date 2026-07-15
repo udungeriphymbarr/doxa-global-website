@@ -1,17 +1,12 @@
+import { BrowserRouter } from "react-router-dom";
+import AppRoutes from "./routes/AppRoutes";
+
 function App() {
-
   return (
-    <div>
-      <h1>
-        DOXA GLOBAL
-      </h1>
-
-      <p>
-        Website MVP Coming Soon
-      </p>
-    </div>
+    <BrowserRouter>
+      <AppRoutes />
+    </BrowserRouter>
   );
-
 }
 
 export default App;

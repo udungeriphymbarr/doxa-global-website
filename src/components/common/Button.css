@@ -1,0 +1,48 @@
+.btn {
+
+display:inline-flex;
+
+align-items:center;
+
+justify-content:center;
+
+padding:14px 28px;
+
+border-radius:8px;
+
+font-weight:600;
+
+text-decoration:none;
+
+cursor:pointer;
+
+transition:0.3s ease;
+
+}
+
+
+.primary {
+
+background:#c9a227;
+
+color:white;
+
+}
+
+
+.outline {
+
+background:transparent;
+
+border:1px solid white;
+
+color:white;
+
+}
+
+
+.btn:hover{
+
+transform:translateY(-3px);
+
+}
