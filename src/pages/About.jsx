@@ -4,6 +4,8 @@ import VisionMission
 from "../components/about/VisionMission/VisionMission";
 import CoreBeliefs 
 from "../components/about/CoreBeliefs/CoreBeliefs";
+import PastorSection 
+from "../components/about/PastorSection/PastorSection";
 
 
 function About(){
@@ -19,6 +21,8 @@ return(
 <VisionMission />
 
 <CoreBeliefs />
+
+<PastorSection />
 
 </main>
 
