@@ -2,6 +2,8 @@ import AboutHero from "../components/about/AboutHero/AboutHero";
 import WhoWeAre from "../components/about/WhoWeAre/WhoWeAre";
 import VisionMission 
 from "../components/about/VisionMission/VisionMission";
+import CoreBeliefs 
+from "../components/about/CoreBeliefs/CoreBeliefs";
 
 
 function About(){
@@ -15,6 +17,8 @@ return(
 <WhoWeAre />
 
 <VisionMission />
+
+<CoreBeliefs />
 
 </main>
 
