@@ -11,6 +11,8 @@ import GalleryPreview
 from "../components/home/GalleryPreview/GalleryPreview";
 import PrayerCTA 
 from "../components/home/PrayerCTA/PrayerCTA";
+import GiveCTA from "../components/home/GiveCTA/GiveCTA";
+
 
 
 function Home(){
@@ -34,6 +36,8 @@ return(
 <GalleryPreview />
 
 <PrayerCTA />
+
+<GiveCTA />
 
 </>
 
