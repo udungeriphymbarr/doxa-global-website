@@ -1,14 +1,16 @@
+import MinistriesHero 
+from "../components/ministries/MinistriesHero/MinistriesHero";
+
+
 function Ministries(){
 
 return(
 
-<div>
+<main>
 
-<h1>
-Our Ministries
-</h1>
+<MinistriesHero />
 
-</div>
+</main>
 
 );
 
