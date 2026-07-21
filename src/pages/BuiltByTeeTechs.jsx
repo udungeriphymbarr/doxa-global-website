@@ -25,7 +25,7 @@ function BuiltByTeeTechs() {
         </p>
 
         <div className="teetechs-buttons">
-          <a href="/" className="primary-btn">
+          <a href="/https://teetechs-church-demo-website.vercel.app/" className="primary-btn">
             View Church Demo
           </a>
 
@@ -189,7 +189,7 @@ with their community online.
 
 
 <a
-href="https://YOUR-VERCEL-LINK.vercel.app"
+href="https://teetechs-church-demo-website.vercel.app/"
 className="portfolio-btn"
 target="_blank"
 rel="noopener noreferrer"
