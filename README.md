@@ -1,6 +1,6 @@
-# DOXA GLOBAL Website
+# CHURCH DEMO Website
 
-Official website project for DOXA GLOBAL.
+Official website demo project for Kingdom Community Church.
 
 ## Tech Stack
 
