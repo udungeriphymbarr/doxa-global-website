@@ -1,6 +1,6 @@
 import "./Welcome.css";
 import church from "../../../data/church";
-import pastorImage from "../../../assets/images/pastor/dr-tiku-etah.jpg";
+import pastorImage from "../../../assets/images/pastor/pastor.jpg";
 import Button from "../../common/Button";
 
 function Welcome() {
@@ -20,11 +20,11 @@ function Welcome() {
           </p>
 
           <h2>
-            Bringing Nations Into God's Glory World
+            Equipping Believers. Transforming Nations.
           </h2>
 
           <p>
-            At DOXA GLOBAL, we are passionate about revealing Jesus Christ,
+            At KINGDOM COMMUNITY CHURCH, we are passionate about revealing Jesus Christ,
             raising disciples, and transforming lives through the power of
             God's Word. Whether you are visiting for the first time or
             searching for a church family, we warmly welcome you.

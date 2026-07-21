@@ -23,7 +23,7 @@ Discover Your Place In Ministry
 
 <p>
 
-At DOXA GLOBAL, our ministries provide
+At KINGDOM COMMUNTIY CHURCH, our ministries provide
 opportunities for believers to discover
 their gifts, serve God's Kingdom, build
 relationships, and grow together in faith.

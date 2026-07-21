@@ -17,7 +17,7 @@ return(
 
 <img 
 src={aboutImage}
-alt="DOXA GLOBAL Church community"
+alt="Kingdom community"
 />
 
 
@@ -35,13 +35,13 @@ Who We Are
 
 
 <h2>
-A Ministry Bringing Nations Into God's Glory World
+A Ministry equipping Believers and Transforming Nations.
 </h2>
 
 
 <p>
 
-DOXA GLOBAL is a faith community committed
+KINGDOM COMMUNITY CHURCH is a faith community committed
 to advancing God's Kingdom, raising believers,
 and creating an environment where people can
 encounter God's glory.

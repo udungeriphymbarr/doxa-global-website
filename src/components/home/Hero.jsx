@@ -1,6 +1,6 @@
 import church from "../../data/church";
-import heroImage from "../../assets/images/hero/church-hero.jpg";
-import logo from "../../assets/images/logo/doxa-logo.png";
+import heroImage from "../../assets/images/hero/church-hero.webp";
+import logo from "../../assets/images/logo/kingdom-logo.png";
 import Button from "../common/Button";
 import "./Hero.css";
 

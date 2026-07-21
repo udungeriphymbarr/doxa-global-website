@@ -20,7 +20,7 @@ Find Your Place
 <p>
 
 There is a place for you in the
-DOXA GLOBAL family. Connect with us
+KINGDOM COMMUNITY family. Connect with us
 and discover opportunities to serve,
 grow, and make an impact.
 

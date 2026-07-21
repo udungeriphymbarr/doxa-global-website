@@ -1,13 +1,6 @@
 const ministries = [
 
 {
-name:"Youth Ministry",
-description:
-"Raising young people to discover purpose, grow in faith, and impact their generation."
-},
-
-
-{
 name:"Worship & Music Ministry",
 description:
 "Creating an atmosphere of worship through music and creative expressions."
@@ -27,9 +20,27 @@ description:
 "Using technology and creativity to spread the message of God's Kingdom."
 },
 
+{
+name:"Youth Ministry",
+description:
+"Raising young people to discover purpose, grow in faith, and impact their generation."
+},
 
 {
-name:"Doxa Property Ministry",
+name:"Men Ministry",
+description:
+"Standing as Fathers and raising the next generation of the Kingdom."
+},
+
+{
+name:"Women Ministry",
+description:
+"Standing as Mothers, teaching the younger generation the ways of righteousness and the ancient path."
+},
+
+
+{
+name:"Property Ministry",
 description:
 "Managing and developing resources that support the vision and growth of the ministry."
 },
@@ -50,7 +61,7 @@ description:
 
 
 {
-name:"Doxa Theatre Ministry",
+name:"Theatre Ministry",
 description:
 "Using drama and creative arts to communicate God's message."
 }

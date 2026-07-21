@@ -11,6 +11,7 @@ import Gallery from "../pages/Gallery";
 import Prayer from "../pages/Prayer";
 import Give from "../pages/Give";
 import Contact from "../pages/Contact";
+import BuiltByTeeTechs from "../pages/BuiltByTeeTechs";
 
 function AppRoutes() {
   return (
@@ -95,6 +96,10 @@ function AppRoutes() {
           </Layout>
         }
       />
+      <Route
+path="/teetechs"
+element={<BuiltByTeeTechs />}
+/>
     </Routes>
   );
 }

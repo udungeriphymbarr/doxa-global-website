@@ -17,13 +17,13 @@ Who We Are
 
 
 <h1>
-About DOXA GLOBAL
+About KINGDOM COMMUNTY CHURCH
 </h1>
 
 
 <p className="about-motto">
 
-...Bringing Nations Into God's Glory World.
+...Equipping Believers. Transforming Nations..
 
 </p>
 

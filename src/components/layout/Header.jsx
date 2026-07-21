@@ -2,7 +2,7 @@ import { useState } from "react";
 import Navbar from "./Navbar";
 import Button from "../common/Button";
 import church from "../../data/church";
-import logo from "../../assets/images/logo/doxa-logo.png";
+import logo from "../../assets/images/logo/kingdom-logo.png";
 import "./Header.css";
 
 

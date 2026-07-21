@@ -25,7 +25,7 @@ Our Ministries
 
 Discover opportunities to serve,
 connect, and grow within the
-DOXA GLOBAL family.
+KINGDOM COMMUNITY family.
 
 </p>
 

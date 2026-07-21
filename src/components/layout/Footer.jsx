@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import church from "../../data/church";
 import "./Footer.css";
-import logo from "../../assets/images/logo/doxa-logo.png";
+import logo from "../../assets/images/logo/kingdom-logo.png";
 
 function Footer() {
   const currentYear = new Date().getFullYear();
@@ -10,19 +10,13 @@ function Footer() {
     <footer className="footer">
       <div className="footer-container">
         {/* Brand */}
-<div className="footer-brand">
+        <div className="footer-brand">
+          <img src={logo} alt={`${church.name} logo`} className="footer-logo" />
 
-<img
-src={logo}
-alt={`${church.name} logo`}
-className="footer-logo"
-/>
+          <h3>{church.name}</h3>
 
-<h3>{church.name}</h3>
-
-<p>{church.motto}</p>
-
-</div>
+          <p>{church.motto}</p>
+        </div>
 
         {/* Navigation */}
         <div>
@@ -90,13 +84,15 @@ className="footer-logo"
           </p>
           <p>{church.locations.lagos.address}</p>
 
-          <p><a href={`tel:${church.contact.phone}`}>
-  {church.contact.phone}
-</a></p>
+          <p>
+            <a href={`tel:${church.contact.phone}`}>{church.contact.phone}</a>
+          </p>
 
-          <p><a href={`mailto:${church.contact.email}`}>
-  {church.contact.email}
-</a></p>
+          <p>
+            <a href={`mailto:${church.contact.email}`}>
+              {church.contact.email}
+            </a>
+          </p>
         </div>
       </div>
 
@@ -105,7 +101,28 @@ className="footer-logo"
           © {currentYear} {church.name}. All Rights Reserved.
         </p>
 
-        <p>Designed & Developed by TeeTechs.</p>
+        <p>
+          Designed & Developed by{" "}
+          <Link to="/teetechs">
+            <strong>TeeTechs</strong>
+          </Link>
+        </p>
+
+        <p className="footer-note">
+          This is a live demonstration of the{" "}
+          <strong>TeeTechs Church Website Template</strong>. Every website is
+          professionally customized to reflect each church's unique vision,
+          branding, ministries, and identity.
+        </p>
+
+        <a
+          href={`https://wa.me/2348057663703?text=Hello%20TeeTechs,%20I%20would%20like%20to%20make%20an%20official%20website%20for%20our%20church.`}
+          className="footer-demo-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Let's Build Your Church Website
+        </a>
       </div>
     </footer>
   );

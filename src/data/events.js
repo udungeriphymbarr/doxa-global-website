@@ -1,15 +1,15 @@
 const events = [
 
 {
-title:"GLOBAL SHIFT'26 WITH DR. TEE",
+title:"WHAT MANNER OF LOVE - WORSHIP CONCERT",
 
-date:"29th - 30th August, 2026",
+date:"30th August, 2026",
 
-time:"9:00 AM & 5:00 PM Daily",
+time:"5:00 PM",
 
-location:"",
+location:"Main Auditorium",
 
-description:"",
+description:"A night of worship, prayer, and encounters with God.",
 
 image:""
 

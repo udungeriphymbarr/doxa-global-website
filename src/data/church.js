@@ -1,21 +1,21 @@
 const church = {
-  name: "DOXA GLOBAL",
+  name: "Kingdom Community Church",
 
-  motto: "...Bringing Nations Into God's Glory World.",
+  motto: "...Equipping Believers. Transforming Nations.",
 
-  pastor: "Dr. Tiku Etah (Dr. Tee)",
+  pastor: "Senior Pastor",
 
   contact: {
-    phone: "0706 885 4990",
-    email: "DoxaCommissionGlobal@gmail.com",
+    phone: "0800-000-0000",
+    email: "info@churchdemo.com",
   },
 
   locations: {
     calabar: {
       address:
-        "129 Goldie Street, Adjacent Amika Utuk Street, Calabar, Cross River State, Nigeria",
+        "Goldie, Calabar, Cross River State, Nigeria",
       services: [
-        "Thursday • 5:30 PM",
+        "Wednesday • 5:30 PM",
         "Sunday • 7:00 AM",
         "Sunday • 8:30 AM",
         "Sunday • 10:00 AM",
@@ -25,19 +25,19 @@ const church = {
 
     lagos: {
       address:
-        "14 Benjamin Street, Clinic Bus Stop, Iyana Sashi, Ojo, Lagos",
+        "Lekki, Lagos",
       services: [
-        "Thursday • 5:30 PM",
-        "Sunday • 4:00 PM",
+        "Wednesday • 5:30 PM",
+        "Sunday • 10:00 AM",
       ],
     },
   },
 
   social: {
-    facebook: "DC Global",
-    instagram: "doxa_commission",
-    youtube: "Doxa Commission Global",
-    whatsapp: "07068854990",
+    facebook: "Kingdom Community Church",
+    instagram: "Kingdom_community_hurch",
+    youtube: "Kingdom Community Church",
+    whatsapp: "0800-000-0000",
   },
 };
 
